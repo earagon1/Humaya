@@ -1,0 +1,142 @@
+/*#fondoDePortada{
+    background-image: url(./IMAGENES/Central/imagenCentral.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:auto;
+}
+
+.contenedor-primera-seccion h1 { 
+    color:#FFFAF4;
+}
+
+.contenedor-primera-seccion p {
+   color: #212529 !important; 
+}
+    
+.contenedor-primera-seccion {
+    width:75%;
+    padding:4rem 2rem;
+    background-color: transparent !important;
+    border: none;
+}
+*/
+@media screen and (min-width:475px) and (max-width:650PX) {
+.productos{
+   background-color:#212529;
+   color:#D5AC8C;
+}
+
+.letrasInicio{
+    color:beige
+}
+
+.letrasInicio p{
+    color:#212529;
+}
+
+.caja{
+    background-color: rgb(255,255,255,0.1);
+}
+
+.letras p{
+    color:#FFFAF4 !important;
+}
+
+.letras h5{
+    color:#D5AC8C;
+}
+
+.boton{
+    color:#D5AC8C;
+    border-color: #D5AC8C;
+}
+
+.image{
+    max-width: 350px !important;
+    height: 150px !important; 
+}
+
+.image2{
+    background-image: url("/IMAGENES/Productos/Producto4b.png");
+
+}
+
+.fondoAlfajor{
+    background-color: #D5AC8C;
+}
+
+.fondoAlfajor h5{
+
+}
+
+.fondoAlfajor p{
+
+}
+
+.logoPequeño{
+    max-width: 60px;
+    height: 40px;
+    vertical-align:middle;
+}
+
+}
+
+@media screen and (min-width:650px) and (max-width:981PX){
+
+    .productos{
+        background-color:#212529;
+        color:#D5AC8C;
+     
+     }
+     
+     .letrasInicio{
+         color:beige
+     }
+     
+     .letrasInicio p{
+         color:#212529;
+     }
+     
+     .caja{
+         background-color: rgb(255,255,255,0.1);
+     }
+     
+     .letras p{
+     
+         color:#FFFAF4 !important;
+     }
+     
+     .letras h5{
+         color:#D5AC8C;
+     }
+     
+     .boton{
+         color:#D5AC8C;
+         border-color: #D5AC8C;
+     }
+     
+     .image{
+         max-width: 350px !important;
+         height: 150px !important; 
+     }
+     
+     .image2{
+         background-image: url("/IMAGENES/Productos/Producto4b.png");
+     
+     }
+     
+     .fondoAlfajor{
+         background-color: #D5AC8C;
+     }
+     
+     
+     
+     .fondoAlfajor h5{
+     
+     }
+     
+     .fondoAlfajor p{
+     
+     }
+
+}
